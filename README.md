@@ -14,6 +14,5 @@ We will score the challenge in three categories:
    * The most beautiful, insightful and understandable visualization.
 
 #### Import data 
-
-* If you're using python you can run the following code to import the data:
+If you're using python or R you can run the respectve scripts to import the data or you can following the link http://imedia.sba.gov/vd/general/foia/FOIA%20-%207(a)(FY2010-Present).xlsx and import the data from your local file.
 		
