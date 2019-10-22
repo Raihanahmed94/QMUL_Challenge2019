@@ -12,3 +12,8 @@ We will score the challenge in three categories:
    * The most precise/accurate prediction of loan repayment.
 #### Visualization:
    * The most beautiful, insightful and understandable visualization.
+
+#### Import data 
+
+* If you're using python you can run the following code to import the data:
+		
