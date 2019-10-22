@@ -1,4 +1,4 @@
-# QMUL_Challenge2019
+# QMUL Data Science Challenge 2019
 
 
 ### Business Problem
