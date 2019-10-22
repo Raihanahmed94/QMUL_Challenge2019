@@ -7,8 +7,8 @@ Creating a Data science capability for the Small Business Administration (SBA) t
 We will score the challenge in three categories:
  
 ### Exploration:
-            Find the most valuable/interesting insight from the dataset.
+   * Find the most valuable/interesting insight from the dataset.
 ### Prediction:
-            The most precise/accurate prediction of loan repayment.
+   * The most precise/accurate prediction of loan repayment.
 ### Visualization:
-            The most beautiful, insightful and understandable visualization.
+   * The most beautiful, insightful and understandable visualization.
